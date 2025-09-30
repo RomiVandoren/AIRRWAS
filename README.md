@@ -39,8 +39,4 @@ Analysis pipeline associated with manuscript "T cell-microbiome associations cap
 All code and analysis scripts developed for this study will be made publicly available upon acceptance of the manuscript at:  
 [https://github.com/RomiVandoren/AIRRWAS](https://github.com/RomiVandoren/AIRRWAS)  
 
----
-
-## Contact
-For questions regarding the code or data, please contact the authors of the manuscript.  
 
