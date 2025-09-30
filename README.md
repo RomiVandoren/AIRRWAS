@@ -36,7 +36,7 @@ Analysis pipeline associated with manuscript "T cell-microbiome associations cap
    - Microbiome data: not publicly available at this time.  
    - TCR sequencing data: Pu et al. (in preparation)  
 
-All code and analysis scripts developed for this study will be made publicly available upon acceptance of the manuscript at:  
+All code and analysis scripts developed for this study are publicly available at:  
 [https://github.com/RomiVandoren/AIRRWAS](https://github.com/RomiVandoren/AIRRWAS)  
 
 
