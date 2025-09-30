@@ -14,8 +14,12 @@ Analysis pipeline associated with manuscript "T cell-microbiome associations cap
 - **test_data/**  
   For testing purposes, a small dataset of **6 samples** from the discovery cohort is provided.  
   This allows users to test the main parts of the pipeline without requiring access to the full dataset.  
-  To run the full pipeline look at the data availability statement for full datasets.  
-
+  To run the full pipeline look at the data availability statement for full datasets.
+  
+- **TCR_microbiome_network.html**  
+  The html file containing the full public TCR-microbiome interaction network.
+  Download and open the file as a webpage to explore the interactive network.
+   
 ---
 
 ## Data Availability
