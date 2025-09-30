@@ -13,14 +13,12 @@ Analysis pipeline associated with manuscript "T cell-microbiome associations cap
 
 - **test_data/**  
   For testing purposes, a small dataset of **6 samples** from the discovery cohort is provided.  
-  This allows users to run the pipeline without requiring access to the full dataset.  
-  The main scripts are based on the **full data**, but this reduced dataset ensures reproducibility and ease of testing.  
+  This allows users to test the main parts of the pipeline without requiring access to the full dataset.  
+  To run the full pipeline look at the data availability statement for full datasets.  
 
 ---
 
 ## Data Availability
-
-All data supporting the findings in the paper are available within the **main text** and/or the **Extended Materials**.  
 
 - **Discovery cohort**: Sequencing data have been deposited at [https://github.com/fabio-affaticati/activ_covid-tcell-omics](https://github.com/fabio-affaticati/activ_covid-tcell-omics).  
 - **Validation experiments**: Experimental data generated during this study will be deposited on **Zenodo** and made publicly available upon acceptance of the manuscript.  
