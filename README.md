@@ -2,3 +2,43 @@
 Analysis pipeline associated with manuscript "T cell-microbiome associations captured through T cell receptor convergence analysis"
 
 ![Overview of the AIRRWAS data collection and pipeline](Overview_AIRRWAS.png)
+
+---
+
+## Repository Structure
+
+- **0_scripts/**  
+  Contains all scripts used for the analysis.  
+  - **utils/** within `0_scripts` holds helper functions required by the main scripts.  
+
+- **test_data/**  
+  For testing purposes, a small dataset of **6 samples** from the discovery cohort is provided.  
+  This allows users to run the pipeline without requiring access to the full dataset.  
+  The main scripts are based on the **full data**, but this reduced dataset ensures reproducibility and ease of testing.  
+
+---
+
+## Data Availability
+
+All data supporting the findings in the paper are available within the **main text** and/or the **Extended Materials**.  
+
+- **Discovery cohort**: Sequencing data have been deposited at [https://github.com/fabio-affaticati/activ_covid-tcell-omics](https://github.com/fabio-affaticati/activ_covid-tcell-omics).  
+- **Validation experiments**: Experimental data generated during this study will be deposited on **Zenodo** and made publicly available upon acceptance of the manuscript.  
+
+**Independent cohorts used for validation**:  
+1. **IBD twins study**:  
+   - Microbiome metagenomics data: [Brand et al., Gastroenterology (DOI: 10.1053/j.gastro.2021.01.030)](https://doi.org/10.1053/j.gastro.2021.01.030)  
+   - TCR sequencing data: Brand et al. (in preparation)  
+
+2. **Colorectal cancer single-cell dataset**:  
+   - Microbiome data: not publicly available at this time.  
+   - TCR sequencing data: Pu et al. (in preparation)  
+
+All code and analysis scripts developed for this study will be made publicly available upon acceptance of the manuscript at:  
+[https://github.com/RomiVandoren/AIRRWAS](https://github.com/RomiVandoren/AIRRWAS)  
+
+---
+
+## Contact
+For questions regarding the code or data, please contact the authors of the manuscript.  
+
