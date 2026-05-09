@@ -31,7 +31,7 @@ Analysis pipeline associated with manuscript "AIRRWAS integrates TCR-microbiome 
 
 ## Data Availability
 
-- **Discovery cohort**: Bulk TCR sequencing data used for the discovery cohort is derived from Ha et al.52 and Affaticati et al.53, and is available at 10.5281/zenodo.7785755. Additionally, 16S rRNA microbiome sequencing data used for the discovery cohort is available at 10.5281/zenodo.19843994.
+- **Discovery cohort**: Bulk TCR sequencing data used for the discovery cohort is derived from Ha et al. and is available at 10.5281/zenodo.7785755. Additionally, 16S rRNA microbiome sequencing data used for the discovery cohort is available at 10.5281/zenodo.19843994.
 - **Validation experiments**: Bulk TCR sequencing data generated from the validation experiments have been deposited at Zenodo as 10.5281/zenodo.19843373  
 
 **Independent cohorts used for validation**:  
