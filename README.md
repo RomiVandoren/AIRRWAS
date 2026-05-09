@@ -1,5 +1,5 @@
 # AIRRWAS
-Analysis pipeline associated with manuscript "T cell-microbiome associations captured through T cell receptor convergence analysis"
+Analysis pipeline associated with manuscript "AIRRWAS integrates TCR-microbiome data to reveal how the gut microbiome shapes the circulating and mucosal T cell repertoire"
 
 ![Overview of the AIRRWAS data collection and pipeline](AIRRWAS_framework.png)
 
